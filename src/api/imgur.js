@@ -1,4 +1,3 @@
-import axios from 'axios';
 import qs from 'qs';
 
 const CLIENT_ID = 'you_client_id';
